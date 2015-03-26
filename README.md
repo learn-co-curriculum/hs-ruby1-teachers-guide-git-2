@@ -24,7 +24,7 @@
 ### Hints and Hurdles
 + `git add/commit/push` - FREEZE everyone and have them do this every 15 minutes to build up the muscle memory.
 
-### On Ironboard
+### On Learn
 + Interactive Practice
   + [Git](https://github.com/flatiron-school-curriculum/hs-git-code-along-lab)
   + [GitHub](https://github.com/flatiron-school-curriculum/hs-github-lab)
