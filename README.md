@@ -24,4 +24,4 @@
 ### Hints and Hurdles
 + `git add/commit/push` - FREEZE everyone and have them do this every 15 minutes to build up the muscle memory.
 
-<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-git-2' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby1-teachers-guide-git-2' title='Unit 5: Git Part 2'>Unit 5: Git Part 2</a> on Learn.co and start learning to code for free.</p>
